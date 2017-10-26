@@ -1,0 +1,3 @@
+A new file is created!
+
+An edit to this file is also created!
